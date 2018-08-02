@@ -2,7 +2,7 @@
 This will have cool Alexa stuff!
 
 # Current features
-- N/A
+- Facial recognition
 
 # Features to be added
-- Facial recognition
+- N/A
